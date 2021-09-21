@@ -1,0 +1,15 @@
+{
+  "name": "express-lab-2",
+  "version": "1.0.0",
+  "description": "deliverable lab 9-21-21",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Gary Jenks",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
